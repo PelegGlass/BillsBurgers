@@ -1,7 +1,7 @@
 public class DeluxeBurger extends Hamburger {
     private boolean chips;
     private boolean drink;
-
+//
     public DeluxeBurger(String breadRoll, String meat) {
         super(breadRoll, meat);
         setName("Deluxe burger");
